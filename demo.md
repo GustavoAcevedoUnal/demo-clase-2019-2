@@ -15,7 +15,8 @@ bla bla blad
 ## Subtitulo 3
 
 [] lista de chequeo 1
-[] lista de chequeo 1
+
+[] lista de chequeo 2
 
 ## Subtitulo 4
 
@@ -23,3 +24,4 @@ Ecuación:
 
 $$ x^2 $$
 
+<a href="http://www.google.com.co">Ir a GOOGLE</a>
